@@ -34,5 +34,5 @@ A modern Discord bot developed with Discord.js and DDEV. This bot provides a sca
 Kadsuno
 
 ## License
-
+GNU General Public License v3.0
 
