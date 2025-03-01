@@ -1,0 +1,43 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "A modern Discord bot developed with Discord.js and DDEV. This bot provides a scalable architecture and an isolated development environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadsuno/discord-battle-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-bot",
+    "anime",
+    "kawaii",
+    "moderation",
+    "japanese",
+    "cute",
+    "discord.js",
+    "anime-girl",
+    "server-management",
+    "community",
+    "entertainment",
+    "nodejs",
+    "social"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadsuno/discord-battle-bot/issues"
+  },
+  "homepage": "https://github.com/Kadsuno/discord-battle-bot#readme",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.10.1",
+    "mongose": "^0.0.2-security"
+  }
+}
